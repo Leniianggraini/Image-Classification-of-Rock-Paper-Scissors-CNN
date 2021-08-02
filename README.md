@@ -1,5 +1,6 @@
 # Image-Classification-of-Rock-Paper-Scissors-CNN
 This is my final project for dicoding Class submission
+
 Notes:
 1. On Google Colabs, Rock-Paper-Scissors Image Classification with Sequential Models Using TensorFlow and Keras Library
 2. Rockpaperscissors.zip was downloaded from https://dicodingacademy.blob.core.windows.net/picodiploma/ml pemula academy/rockpaperscissors.zip.
